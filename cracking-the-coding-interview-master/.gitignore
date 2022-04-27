@@ -1,0 +1,11 @@
+.DS_Store
+
+.settings/
+
+.classpath
+
+.project
+
+/bin/
+
+.idea/
